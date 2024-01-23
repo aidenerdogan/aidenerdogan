@@ -16,22 +16,21 @@ I am a passionate and experienced Data Scientist with expertise in text analytic
 - Data Science and Misc. Technologies: Generative AI, Large Language Models (LLM), Mathematics, Time Series Algorithms, Recommendation Engines, NLTK, Hypothesis Testing, Data Science Pipeline, Jupyter Notebook, Excel, Open Map
 - Development: MLOps, Airflow, MLFlow, Kubernetes, Docker, Agile Methodology, Git/Github, CI/CD
 
-## Work Experiences
+[For my professional experience visit my portfolio](https://aidenerdogan.github.io)
 
-** Data Scientist – Contractor at CRED Investments ** 
-01/2023 - Present                                                                                		Berlin, DE
-Summary
-Revolutionized Data Quality and sales strategies by spearheading the development of Machine Learning (ML) data matching and personalized models on vast datasets.
 
-Achievements/Tasks
- - Data Collection & Processing: Led extraction and cleansing of entity data from 30+ sources using APIs, Scrapy, and GCP tools, ensuring seamless data refinement.
- - Model Development & Implementation: Engineered personalized ranking models and tailored ML solutions for entities, employing TensorFlow, LLM, and Scikit Learn
- - Project Deployment & Monitoring: Constructed an efficient deployment pipeline, automating predictions, and enabling team updates through Slack, enhancing operational efficiency and team collaboration.
+## Projects
+**Below are the GitHub repositories where I have showcased my personal projects and tasks that I have developed in my free time. These projects have allowed me to enhance my skills, expand my knowledge, and provide guidance to individuals interested in the field of Data Science and Machine Learning. Feel free to explore these repositories to gain insights into my work and discover new ideas.**
+[Real World Data Science and Machine Learning Projects and Comlated Interview Tasks](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML)
+[Learning Large Language Models with Fine-Tuning LLMs and Developing Cutting-Edge LLM Applications](https://github.com/aidenerdogan/LLM_E2E_APPLICATION)
+[Deep Learning Tutorial with Natural Language Processing Exercises and Projects](https://github.com/aidenerdogan/DL-NLP-TutorialAndProjects)
+[Data Science and Machine Learning Tutorial with Complated Courses and Bootcamps](https://github.com/aidenerdogan/Data-Science-and-Machine-Learning-Tutorial)
 
+**Feel free to explore these repositories and delve into the projects and tasks I have developed in my free time. They reflect my dedication to continuous learning, personal growth, and the sharing of knowledge within the Data Science and Machine Learning community.**
 
 ## Contact Me
 
-I am open to exciting opportunities and collaborations. Feel free to reach out to me at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) to discuss potential projects or job opportunities.
+I am open to exciting opportunities and collaborations. Feel free to reach out to me at aiden.erdogan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aiden-erdogan/) to discuss potential projects or job opportunities.
 
 Thank you for visiting my portfolio!
 
