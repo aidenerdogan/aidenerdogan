@@ -23,8 +23,11 @@ I am a passionate and experienced Data Scientist with expertise in text analytic
 **Below are the GitHub repositories where I have showcased my personal projects and tasks that I have developed in my free time. These projects have allowed me to enhance my skills, expand my knowledge, and provide guidance to individuals interested in the field of Data Science and Machine Learning. Feel free to explore these repositories to gain insights into my work and discover new ideas.**
 
 - [Real World Data Science and Machine Learning Projects and Comlated Interview Tasks](https://github.com/aidenerdogan/Real_Wolrd_DS_and_ML)
+- 
 - [Learning Large Language Models with Fine-Tuning LLMs and Developing Cutting-Edge LLM Applications](https://github.com/aidenerdogan/LLM_E2E_APPLICATION)
+- 
 - [Deep Learning Tutorial with Natural Language Processing Exercises and Projects](https://github.com/aidenerdogan/DL-NLP-TutorialAndProjects)
+- 
 - [Data Science and Machine Learning Tutorial with Complated Courses and Bootcamps](https://github.com/aidenerdogan/Data-Science-and-Machine-Learning-Tutorial)
 
 **Feel free to explore these repositories and delve into the projects and tasks I have developed in my free time. They reflect my dedication to continuous learning, personal growth, and the sharing of knowledge within the Data Science and Machine Learning community.**
