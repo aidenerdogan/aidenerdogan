@@ -16,7 +16,9 @@ I am a passionate and experienced Data Scientist with expertise in text analytic
 - Data Science and Misc. Technologies: Generative AI, Large Language Models (LLM), Mathematics, Time Series Algorithms, Recommendation Engines, NLTK, Hypothesis Testing, Data Science Pipeline, Jupyter Notebook, Excel, Open Map
 - Development: MLOps, Airflow, MLFlow, Kubernetes, Docker, Agile Methodology, Git/Github, CI/CD
 
-<-- [For my professional experience visit my portfolio](https://aidenerdogan.github.io) -->
+<!--
+[For my professional experience visit my portfolio](https://aidenerdogan.github.io)
+-->
 
 
 ## Projects
